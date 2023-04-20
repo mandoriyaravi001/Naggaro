@@ -1,0 +1,44 @@
+﻿@model IEnumerable<DataAccessLayer.DatabaseModels.Event>
+
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Various Events</h2>
+<table class="table">
+    <tr>
+        <th>
+            Past Events
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        if (item.Date < System.DateTime.Now)
+        {
+            <tr>
+                <td>
+                    @Html.ActionLink(item.Title, "Details", new { id = item.EventID })
+                </td>
+            </tr>
+        }
+    }
+ <br />
+    <tr>
+        <th>
+            UpComing Events
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        if (item.Date > System.DateTime.Now)
+        {
+            <tr>
+                <td>
+                    @Html.ActionLink(item.Title, "Details", new { id = item.EventID })
+                </td>
+            </tr>
+        }
+    }
+
+
+</table>

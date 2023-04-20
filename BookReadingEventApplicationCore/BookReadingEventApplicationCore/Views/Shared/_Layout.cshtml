@@ -1,0 +1,115 @@
+﻿@using Microsoft.AspNetCore.Http;
+@inject IHttpContextAccessor httpContextAccessor
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - BookReadingEventApplicationCore</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+  <link href="~/css/site.css" rel="stylesheet" />
+</head>
+<body style="background-color:lightslategrey">
+    <header>
+        
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light btn-group-lg border-bottom box-shadow mb-3" >
+            <div class="container">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation" style="color:white;">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                @if (string.IsNullOrEmpty(Convert.ToString(Context.Session.GetString("Role"))) || Convert.ToString(Context.Session.GetString("Role")).Equals("User"))
+                {
+                    @Html.ActionLink("Book_Reading Event_Application ", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                }
+                else
+                {
+                    @Html.ActionLink("Book_Reading Event_Application ", "AllEvents", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                }
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <div class="navbar-collapse collapse" >
+
+                <ul class="navbar-nav flex-grow-1">
+                    @if (string.IsNullOrEmpty(Convert.ToString(Context.Session.GetString("Role"))) || Convert.ToString(Context.Session.GetString("Role")).Equals("User"))
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home </a>
+                        </li>
+
+                    }
+                    else
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="AllEvents">Home </a>
+                        </li>
+
+                    }
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="About">About </a>
+                    </li>
+                    @if (!string.IsNullOrEmpty(Convert.ToString(Context.Session.GetString("IsLoggedIn"))))
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Event" asp-action="Index">My Events </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Event" asp-action="EventsInvitedTo">EventsInvitedTo </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Event" asp-action="Create">Create Event </a>
+                        </li>
+
+                    }
+
+                </ul>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <ul style="float:right;" class="navbar-nav flex-grow-1">
+                    @if (string.IsNullOrEmpty(Convert.ToString(Context.Session.GetString("IsLoggedIn"))))
+                    {
+                        <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="Create">Sing In</a>
+                        </li>                        
+                        <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Login" asp-action="Login">Login </a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="nav-item">
+                            <a>Dear- @User.Identity.Name</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Login" asp-action="Logout">Logout</a>
+                        </li>
+                    }
+
+                </ul>
+            </div>
+            </div>
+        </nav>
+        
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

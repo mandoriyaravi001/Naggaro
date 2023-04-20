@@ -1,0 +1,54 @@
+﻿@model IEnumerable<DataAccessLayer.DatabaseModels.Event>
+
+@{
+    ViewData["Title"] = "AllEvents";
+}
+
+<h1>Various Events</h1>
+
+<table class="table">
+    <tr>
+        <th>
+            Past Events
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        if (item.Date < System.DateTime.Now)
+        {
+            <tr>
+                <td>
+                    @Html.ActionLink(item.Title, "Details", new { id = item.EventID })
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", "Event", new { id = item.EventID }, htmlAttributes: new { @class = "" }) |
+                    @Html.ActionLink("Delete", "Delete", "Event", new { id = item.EventID }, htmlAttributes: new { @class = "" })
+                </td>
+            </tr>
+        }
+    }
+    <br />
+    <tr>
+        <th>
+            UpComing Events
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        if (item.Date > System.DateTime.Now)
+        {
+            <tr>
+                <td>
+                    @Html.ActionLink(item.Title, "Details", new { id = item.EventID })
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", "Event", new { id = item.EventID }, htmlAttributes: new { @class = "" }) |
+                    @Html.ActionLink("Delete", "Delete", "Event", new { id = item.EventID }, htmlAttributes: new { @class = "" })
+                </td>
+            </tr>
+        }
+    }
+</table>

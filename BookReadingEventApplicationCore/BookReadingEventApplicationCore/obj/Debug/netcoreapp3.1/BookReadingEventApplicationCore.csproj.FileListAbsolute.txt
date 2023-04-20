@@ -1,0 +1,919 @@
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.exe
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.deps.json
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.runtimeconfig.json
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.runtimeconfig.dev.json
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.pdb
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.Views.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.Views.pdb
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.csprojAssemblyReference.cache
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.AssemblyInfoInputs.cache
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.AssemblyInfo.cs
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorAssemblyInfo.cache
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorAssemblyInfo.cs
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\staticwebassets\BookReadingEventApplicationCore.StaticWebAssets.Manifest.cache
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\staticwebassets\BookReadingEventApplicationCore.StaticWebAssets.xml
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookReadingEventApplicationCore.styles.css
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.TagHelpers.input.cache
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.TagHelpers.output.cache
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorCoreGenerate.cache
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorTargetAssemblyInfo.cache
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorTargetAssemblyInfo.cs
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.Views.pdb
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.csproj.CopyComplete
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.pdb
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.genruntimeconfig.cache
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\User\Create.cshtml.g.cs
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\Index.cshtml.g.cs
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\Create.cshtml.g.cs
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\Edit.cshtml.g.cs
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\Delete.cshtml.g.cs
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\EventsInvitedTo.cshtml.g.cs
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\AllEvents.cshtml.g.cs
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.exe
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.deps.json
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.runtimeconfig.json
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.runtimeconfig.dev.json
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.pdb
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.Views.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.Views.pdb
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Services.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Services.pdb
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.csproj.AssemblyReference.cache
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.AssemblyInfoInputs.cache
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.AssemblyInfo.cs
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.csproj.CoreCompileInputs.cache
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.MvcApplicationPartsAssemblyInfo.cache
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorAssemblyInfo.cache
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorAssemblyInfo.cs
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\staticwebassets\BookReadingEventApplicationCore.StaticWebAssets.Manifest.cache
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\staticwebassets\BookReadingEventApplicationCore.StaticWebAssets.xml
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookReadingEventApplicationCore.styles.css
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.TagHelpers.input.cache
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.TagHelpers.output.cache
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorCoreGenerate.cache
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\Create.cshtml.g.cs
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\Delete.cshtml.g.cs
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\Edit.cshtml.g.cs
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\EventsInvitedTo.cshtml.g.cs
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\Index.cshtml.g.cs
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\AllEvents.cshtml.g.cs
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\User\Create.cshtml.g.cs
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorTargetAssemblyInfo.cache
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorTargetAssemblyInfo.cs
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.Views.pdb
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.csproj.CopyComplete
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.pdb
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.genruntimeconfig.cache
+C:\Users\ravimandoriya\Downloads\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.csproj.AssemblyReference.cache
+C:\Users\ravimandoriya\Downloads\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravimandoriya\Downloads\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.dll
+C:\Users\ravimandoriya\Downloads\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.pdb
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.exe
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.deps.json
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.runtimeconfig.json
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.runtimeconfig.dev.json
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.pdb
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.Views.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.Views.pdb
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Services.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Services.pdb
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.csproj.AssemblyReference.cache
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.AssemblyInfoInputs.cache
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.AssemblyInfo.cs
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.csproj.CoreCompileInputs.cache
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.MvcApplicationPartsAssemblyInfo.cache
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorAssemblyInfo.cache
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorAssemblyInfo.cs
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\staticwebassets\BookReadingEventApplicationCore.StaticWebAssets.Manifest.cache
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\staticwebassets\BookReadingEventApplicationCore.StaticWebAssets.xml
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookReadingEventApplicationCore.styles.css
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.TagHelpers.input.cache
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.TagHelpers.output.cache
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorCoreGenerate.cache
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\Create.cshtml.g.cs
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\Delete.cshtml.g.cs
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\Edit.cshtml.g.cs
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\EventsInvitedTo.cshtml.g.cs
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\Index.cshtml.g.cs
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\AllEvents.cshtml.g.cs
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\User\Create.cshtml.g.cs
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorTargetAssemblyInfo.cache
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorTargetAssemblyInfo.cs
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.Views.pdb
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.csproj.CopyComplete
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.pdb
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.genruntimeconfig.cache
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.exe
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.deps.json
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.runtimeconfig.json
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.runtimeconfig.dev.json
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.pdb
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.Views.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.Views.pdb
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.csproj.AssemblyReference.cache
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.AssemblyInfoInputs.cache
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.AssemblyInfo.cs
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorAssemblyInfo.cache
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorAssemblyInfo.cs
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\staticwebassets\BookReadingEventApplicationCore.StaticWebAssets.Manifest.cache
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\staticwebassets\BookReadingEventApplicationCore.StaticWebAssets.xml
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookReadingEventApplicationCore.styles.css
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.TagHelpers.input.cache
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.TagHelpers.output.cache
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorCoreGenerate.cache
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\Create.cshtml.g.cs
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\Delete.cshtml.g.cs
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\Edit.cshtml.g.cs
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\EventsInvitedTo.cshtml.g.cs
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\Index.cshtml.g.cs
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\AllEvents.cshtml.g.cs
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\User\Create.cshtml.g.cs
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorTargetAssemblyInfo.cache
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorTargetAssemblyInfo.cs
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.Views.pdb
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.dll
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.pdb
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.genruntimeconfig.cache
+C:\Users\ravimandoriya\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.csproj.CopyComplete
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.exe
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.deps.json
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.runtimeconfig.json
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.runtimeconfig.dev.json
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.pdb
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.Views.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\BookReadingEventApplicationCore.Views.pdb
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.csproj.AssemblyReference.cache
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.AssemblyInfoInputs.cache
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.AssemblyInfo.cs
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorAssemblyInfo.cache
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorAssemblyInfo.cs
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\staticwebassets\BookReadingEventApplicationCore.StaticWebAssets.Manifest.cache
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\staticwebassets\BookReadingEventApplicationCore.StaticWebAssets.xml
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookReadingEventApplicationCore.styles.css
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.TagHelpers.input.cache
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.TagHelpers.output.cache
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorCoreGenerate.cache
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\Create.cshtml.g.cs
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\Delete.cshtml.g.cs
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\Edit.cshtml.g.cs
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\EventsInvitedTo.cshtml.g.cs
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Event\Index.cshtml.g.cs
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\AllEvents.cshtml.g.cs
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\User\Create.cshtml.g.cs
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorTargetAssemblyInfo.cache
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.RazorTargetAssemblyInfo.cs
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.Views.pdb
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.csproj.CopyComplete
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.dll
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.pdb
+C:\Users\ravimandoriya\gitcheckout\3174651\BookReadingEventApplicationCoreDesignPattern\BookReadingEventApplicationCore\BookReadingEventApplicationCore\obj\Debug\netcoreapp3.1\BookReadingEventApplicationCore.genruntimeconfig.cache
